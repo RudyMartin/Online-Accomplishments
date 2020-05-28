@@ -2,7 +2,7 @@
 Links to online training accomplishments
 
 ## Specializations
-* Data Science Specialization (10 Courses) 
+* Data Science Specialization (10 Courses)  
   https://www.coursera.org/account/accomplishments/specialization/YCC6WNKNK9UF
   - R Programming
   - Getting and Cleaning Data
@@ -15,5 +15,5 @@ Links to online training accomplishments
   - Data Science Capstone
   
 ## Deep Learning Courses
-* Neural Networks and Deep Learning 
+* Neural Networks and Deep Learning  
   https://www.coursera.org/account/accomplishments/verify/ZAHSZBQJ34VT
