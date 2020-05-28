@@ -1,7 +1,7 @@
 # Online-Accomplishments
 Links to online training accomplishments
 ## Specializations
-* Data Science Specialization - [10 Courses]  ( https://www.coursera.org/account/accomplishments/specialization/YCC6WNKNK9UF )
+* Data Science Specialization [10 Courses] (https://www.coursera.org/account/accomplishments/specialization/YCC6WNKNK9UF)
   - R Programming
   - Getting and Cleaning Data
   - Exploratory Data Analysis
